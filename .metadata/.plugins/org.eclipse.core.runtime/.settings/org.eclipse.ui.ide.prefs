@@ -1,0 +1,11 @@
+EXIT_PROMPT_ON_CLOSE_LAST_WINDOW=false
+IDE_ENCODINGS_PREFERENCE=MS932'EUC-JP
+PROBLEMS_FILTERS_MIGRATE=true
+SHOW_LOCATION=true
+SWITCH_PERSPECTIVE_ON_PROJECT_CREATION=never
+WORKSPACE_NAME=
+eclipse.preferences.version=1
+org.eclipse.ui.internal.views.markers.CachedMarkerBuilderorg.eclipse.ui.views.ProblemView=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<filterGroups andFilters\="false" markerLimit\="100" markerLimitEnabled\="true">\r\n<filterGroup IMemento.internal.id\="\u3059\u3079\u3066\u306E\u30A8\u30E9\u30FC" enabled\="false" filterLimit\="-1" scope\="0" workingSet\="Aggregate for window 1498557859487">\r\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.severityAndDescriptionField" containsModifier\="CONTAINS" containsText\="" selectedSeverities\="0"/>\r\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.markerType"/>\r\n</filterGroup>\r\n<filterGroup IMemento.internal.id\="\u9078\u629E\u4E0A\u306E\u8B66\u544A" enabled\="false" filterLimit\="-1" scope\="2" workingSet\="Aggregate for window 1498557859487">\r\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.severityAndDescriptionField" containsModifier\="CONTAINS" containsText\="" selectedSeverities\="2"/>\r\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.markerType"/>\r\n</filterGroup>\r\n<filterGroup IMemento.internal.id\="\u9078\u629E\u4E0A\u306E\u30A8\u30E9\u30FC/\u8B66\u544A" enabled\="false" filterLimit\="-1" scope\="2" workingSet\="Aggregate for window 1498557859487">\r\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.severityAndDescriptionField" containsModifier\="CONTAINS" containsText\="" selectedSeverities\="6"/>\r\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.markerType"/>\r\n</filterGroup>\r\n<filterGroup IMemento.internal.id\="\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\u4E0A\u306E\u30A8\u30E9\u30FC/\u8B66\u544A" enabled\="true" filterLimit\="-1" scope\="3" workingSet\="Aggregate for window 1498557859487">\r\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.severityAndDescriptionField" containsModifier\="CONTAINS" containsText\="" selectedSeverities\="6"/>\r\n<fieldFilter IMemento.internal.id\="org.eclipse.ui.ide.markerType"/>\r\n</filterGroup>\r\n</filterGroups>
+platformState=1497449101711
+quickStart=false
+tipsAndTricks=true

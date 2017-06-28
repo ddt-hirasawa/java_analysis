@@ -1,0 +1,13 @@
+brightStyle={"text"\:{"foreground"\:"COLOR_RED"}}
+darkStyle={"text"\:{"foreground"\:"COLOR_BLUE"}}
+eclipse.preferences.version=1
+jd.ide.eclipse.prefs.DisplayLineNumbers=true
+jd.ide.eclipse.prefs.DisplayMetadata=true
+jd.ide.eclipse.prefs.RealignLineNumbers=true
+jd.ide.eclipse.prefs.ShowLineNumbers=true
+jd.ide.eclipse.prefs.ShowMetadata=true
+org.sf.feeling.decompiler.check_update=false
+org.sf.feeling.decompiler.type=FernFlower
+org.sf.feeling.decompiler.use_eclipse_formatter=false
+trayLinkStrategy=[]
+uuid=c471754a-5796-4b0d-89e3-812f9c869884
